@@ -38,6 +38,7 @@ This last diagram is a general analyisis that looks at the polularity of each ge
 2. What time of the year should the movie be released.
 ![Month of release](./month_released.png)
 Although it is not a very strong correlation. It is evident that the movies released later in the year tend to perform better.
+![Profit by month](./profit_by_month.png)
 
 3. What genres make the most profit.
 ![Genre Profit](./genre_profits.png)
